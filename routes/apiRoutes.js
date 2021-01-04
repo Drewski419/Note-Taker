@@ -27,12 +27,19 @@ module.exports = function(app){
 
     // POST Method to add notes
     app.post("/api/notes", function(req, res){
-
+console.log(res.body)
         // Set unique id to entry
         if (notesData.length == 0){
             req.body.id = "0";
         } else{
-            req.body.id = JSON.stringify(JSON.parse(notesData[notesData.length - 1].id) + 1);
+var lastindex = notesData.length - 1
+var lastindexid = notesData[lastindex].id
+
+console.log("asdf", lastindex, lastindexid, notesData[lastindex])
+var temp = JSON.parse(lastindexid) + 1
+
+
+            req.body.id = JSON.stringify(temp);
         }
         
         console.log("req.body.id: " + req.body.id);
