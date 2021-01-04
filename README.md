@@ -7,9 +7,9 @@ Homework  Unit 11
 
 Create, save, and delete notes with a simple note taker app!
 
-![NoteTaker1](images/Notetaker1.jpg)
+![NoteTaker1](images/Notetaker1.png)
 
-![NoteTaker2](images/Notetaker2.jpg)
+![NoteTaker2](images/Notetaker2.png)
 
 
 ## Tech Used
