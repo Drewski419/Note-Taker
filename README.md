@@ -7,7 +7,9 @@ Homework  Unit 11
 
 Create, save, and delete notes with a simple note taker app!
 
+![NoteTaker1](images/NoteTaker1.jpg)
 
+![NoteTaker2](images/NoteTaker2.jpg)
 
 
 ## Tech Used
@@ -18,7 +20,6 @@ Node.js
 
 ## Installation
 
-Clone from GitHub
 Open project directory, then npm install to install all dependencies
 
 
@@ -34,4 +35,7 @@ View notes on the left-hand side. Click the red "X" to delete the note
 
 ## Links
 
+[drewski419.github.io/Note-Taker](https://drewski419.github.io/Note-Taker/)
+
+[limitless-wildwood-29494.herokuapp.com](https://limitless-wildwood-29494.herokuapp.com/)
 
