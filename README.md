@@ -25,12 +25,12 @@ Open project directory, then npm install to install all dependencies
 
 ## Usage
 
-node server.js
-navigate to localhost:3000
-Click "Get Started"
-Give the note a title and a body, then press save.
-To create a new note, click on the pencil icon
-View notes on the left-hand side. Click the red "X" to delete the note
+1. node server.js
+2.  navigate to localhost:3000
+3.  Click "Get Started"
+4.  Give the note a title and a body, then press save.
+5.  To create a new note, click on the pencil icon
+6.  View notes on the left-hand side. Click the red "X" to delete the note
 
 
 ## Links
